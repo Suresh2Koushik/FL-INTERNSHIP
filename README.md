@@ -26,3 +26,14 @@ data.
   
 
 </p>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<h4> Learning resources </h4>
+
+
+<ul>
+  <li>PADHAI – Deep Learning</li>
+  <li>Udemy – Federated Learning using PyTorch</li>
+  <li>Youtube Resources</li>
+</ul>
