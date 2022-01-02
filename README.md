@@ -88,8 +88,31 @@ about Differential Privacy (DP) and how to add it to FL.
 
 
 
+<p>
+  
+  <h4> Youtube resource </h4>
+ 
+• With the help of YouTube tutorials and official documentation we
+have learnt about the PyTorch and its importance.
+
+• PyTorch is an open-source machine learning library for Python and
+is completely based on Torch. It is primarily used for applications
+such as natural language processing.
 
 
+•  Course Link -  https://pytorch.org/tutorials/
+
+ • https://www.youtube.com/playlist?list=PLQVvvaa0QuDdeMyHEYc
+0gxFpYwHY2Qfdh
+
+• https://www.youtube.com/playlist?list=PLqnslRFeH2UrcDBWF5mf
+PGpqQDSta6VK4
+
+</p>
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
