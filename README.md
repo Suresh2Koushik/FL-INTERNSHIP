@@ -7,19 +7,19 @@
 
   <h4> Learning experience in the internship </h4>
   
-In Machine Learning, where we perform analysis by bringing the client’s
+• In Machine Learning, where we perform analysis by bringing the client’s
 data into centralised server and then we train the model based on our
 preferences. By this approach we understand the privacy and security of
 the data is been accessed by many unauthorised users from all over the
 world.
 
-In order to overcome the above issue, we come up with technique
+• In order to overcome the above issue, we come up with technique
 known as Federated Learning. FL trains an algorithm across multiple
 decentralized edge devices or servers holding client’s local data records,
 without exchanging them.
 
 
-It enables multiple clients to build a common learning model without
+• It enables multiple clients to build a common learning model without
 sharing data, that allows to address the critical issues such as data
 privacy, data security, data access rights and access to heterogeneous
 data.
@@ -46,20 +46,17 @@ data.
   
   <h4> PADHAI – Deep Learning </h4>
  
-This platform helped  to understand Deep Learning concepts by which
+• This platform helped  to understand Deep Learning concepts by which
 we have learnt about MP Neuron, Perceptron, Sigmoid Neuron, Gradient
 Descent, Feedforward Neural Networks, Optimization Algorithms and
 PyTorch.
 
 
- Course Link - https://padhai.onefourthlabs.in/courses/dl-feb-2019
+•  Course Link - https://padhai.onefourthlabs.in/courses/dl-feb-2019
 
 </p>
 
-
-<br> <br>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
 
 <p>
   
@@ -83,9 +80,13 @@ models and the datasets between the clients and the server.
 FedAvg, FedSGD, FedProx, and FedDANE. Next, we learned
 about Differential Privacy (DP) and how to add it to FL.
 
+• Course link- https://www.udemy.com/course/federated_learning/
+
 </p>
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
 
 
 
