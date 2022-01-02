@@ -114,5 +114,22 @@ PGpqQDSta6VK4
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+<p>
+  
+  <h4> Platform used to demonstrate the knowledge you gained </h4>
+ 
+• The platform which we used to demonstrate the algorithms is PySyft.
 
+• PySyft is a framework that enables secured, private computations
+in deep learning models.
 
+•PySyft combines federated learning, secured multiple-party
+computations.
+
+•Also, it is differential privacy in a single programming model
+integrated into different deep learning frameworks such as
+PyTorch, Keras or TensorFlow
+
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
