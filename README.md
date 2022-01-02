@@ -27,7 +27,7 @@ data.
 
 </p>
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <h4> Learning resources </h4>
 
@@ -37,3 +37,54 @@ data.
   <li>Udemy – Federated Learning using PyTorch</li>
   <li>Youtube Resources</li>
 </ul>
+
+
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+<p>
+  
+  <h4> PADHAI – Deep Learning </h4>
+ 
+This platform helped  to understand Deep Learning concepts by which
+we have learnt about MP Neuron, Perceptron, Sigmoid Neuron, Gradient
+Descent, Feedforward Neural Networks, Optimization Algorithms and
+PyTorch.
+
+</p>
+
+
+<br> <br>
+
+
+<p>
+  
+<h4> UDEMY </h4>
+
+•This platform helped us to understand about federated learning.
+
+• In this course, I have learnt about the main concepts in Neural
+Networks (NN) and how they work. 
+
+•Then I have implemented Neural Networks from scratch using PyTorch. After that, we have
+moved on to Federated Learning architecture.
+
+• Later, I started it by loading the dataset on the devices in IID,
+non-IID, and non-IID and unbalanced settings.
+
+• With the help of PySyft, we learnt how to send and receive the
+models and the datasets between the clients and the server.
+
+• We have implemented some federated learning algorithms such as
+FedAvg, FedSGD, FedProx, and FedDANE. Next, we learned
+about Differential Privacy (DP) and how to add it to FL.
+
+</p>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
