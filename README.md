@@ -1,2 +1,4 @@
 # FL-INTERNSHIP
-The codes used in the Federated Learning intersnhip
+<h2> Summer Research Internship- Federated learning </h2>
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
