@@ -51,10 +51,14 @@ we have learnt about MP Neuron, Perceptron, Sigmoid Neuron, Gradient
 Descent, Feedforward Neural Networks, Optimization Algorithms and
 PyTorch.
 
+
+ Course Link - https://padhai.onefourthlabs.in/courses/dl-feb-2019
+
 </p>
 
 
 <br> <br>
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 <p>
